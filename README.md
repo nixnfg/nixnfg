@@ -39,7 +39,7 @@
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=nixnfg&repo=nixnfg&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nixnfg" id="counter">
 </p>
 
 <!---
